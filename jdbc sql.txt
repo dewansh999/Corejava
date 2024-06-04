@@ -1,0 +1,5 @@
+print -sout(""+rs.getInt());
+
+
+
+sql equals ke baad single phir double quote phir ++
